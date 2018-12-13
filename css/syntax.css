@@ -1,9 +1,9 @@
 /*****************
 *CSS For Beginners
 ******************/
-span {
-    color: blue;
+p{
+    color: red!important;
 }
-span {
-    color: red;
+#main-content p{
+    color: green;
 }
