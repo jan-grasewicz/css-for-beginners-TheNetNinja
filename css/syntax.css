@@ -2,38 +2,10 @@
 *CSS For Beginners
 ******************/
 
-/*
-article p:first-child{
-    font-weight: bold;
-}
-*/
-article p:first-of-type{
-    font-weight: bold;
-}
-/*
-article p:last-child{
+*{
     color: red;
 }
-*/
-article p:last-of-type{
-    color: red;
-}
-
-/*
-article p:nth-child(4), article p:nth-child(6){
-    color: gold;
-}
-article p:nth-child(even){
-    background: blue;
-}
-article p:nth-child(odd){
-    background: lightblue;
-}
-article p:nth-child(3n - 1){
-    font-style: italic;
-    font-size: 25px;
-}
-*/
-article:nth-of-type(2){
+span[class="deck halls"]{
     background: gray;
+    color: blue;
 }
