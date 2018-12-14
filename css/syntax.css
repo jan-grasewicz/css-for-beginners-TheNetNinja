@@ -2,15 +2,12 @@
 *CSS For Beginners
 ******************/
 
-span[class~="deck"]{
+a:hover{
+    color: red;
+}
+a:active{
+    color: orange;
+}
+a:visited{
     color: purple;
-}
-div[id]{
-    background: gray;
-}
-a[href$="pdf"]{
-    color: green;
-}
-a[href^="http"]{
-    color: pink;
 }
