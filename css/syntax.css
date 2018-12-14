@@ -2,10 +2,55 @@
 *CSS For Beginners
 ******************/
 
-*{
-    color: red;
-}
-span[class="deck halls"]{
-    background: gray;
-    color: blue;
-}
+/***********************
+ List of commands learned in consequent viodeos.
+ **********************
+ article{
+    font-size: 16px;
+        font-size: 2em;
+        font-size: 150%;
+
+    font-family: arial, helvetica, san-serif;
+
+    text-decoration: underline;
+        text-decoration: line-through;
+        text-decoration: overline;
+        text-decoration: none;
+        text-decoration: inherit;
+    
+    font-weight: normal;
+        font-weight: bold;
+        font-weight: bolder;
+        font-weight: lighter;
+        font-weight: inherit;
+        font-weight: 100-900;
+    
+    text-transform: uppercase;
+        text-transform: lowercase;
+        text-transform: capitalize;
+        text-transform: full-width;
+        text-transform: inherit;
+        text-transform: none;
+        
+    color: #ff0000;
+    
+    backgroubd-color: red;
+        backgroubd-color: url();
+
+    letter-spacing: 2px;
+        letter-spacing: 2em; -
+        letter-spacing: normal;
+        letter-spacing: inherit;
+    
+    word-spacing: 3px;
+        word-spacing: 1em;
+        word-spacing: normal;
+        word-spacing: inherit;
+
+    line-height: 24px;
+        line-height: 1em;
+        line-height: normal;
+        line-height: inherit;
+ }
+ ************************
+ ***********************/
