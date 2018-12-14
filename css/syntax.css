@@ -1,6 +1,16 @@
 /*****************
 *CSS For Beginners
 ******************/
-#all-articles h2 + p{
+
+span[class~="deck"]{
+    color: purple;
+}
+div[id]{
+    background: gray;
+}
+a[href$="pdf"]{
     color: green;
+}
+a[href^="http"]{
+    color: pink;
 }
