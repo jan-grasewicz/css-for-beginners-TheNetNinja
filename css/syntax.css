@@ -2,12 +2,36 @@
 *CSS For Beginners
 ******************/
 
-.banner{
-    background-color: #606060;
-    width: 100%;
-    height: 300px;
-    background-image: url (), url();
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+#circle-00{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgba(200,200,100,1);
+    border-radius: 200px;
+    top: 50px;
+    left: 50px;
+    /*opacity: 1;*/
+    text-align: center;
+}
+#circle-01{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgba(200,100,200,0.3);
+    border-radius: 200px;
+    top: 250px;
+    left: 150px;
+    /*opacity: 0.3;*/
+    text-align: center;
+}
+#circle-02{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgba(100,200,200,0.1);
+    border-radius: 200px;
+    top: 50px;
+    left: 250px;
+    /*opacity: 0.1;*/
+    text-align: center;
 }
