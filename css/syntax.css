@@ -2,39 +2,15 @@
 *CSS For Beginners
 ******************/
 
-.box{
-    margin: 20px;
-    padding: 20px;
-    float: left;
-    /*
-    border-top: 10px solid blue;
-    =
-    border-top-width: 10px;
-    border-top-style: solid;
-    border-top-color: blue;
-    */
-    }
-.dashed{
-    border: 10px blue dashed;
+.block{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
 }
-.dotted{
-    border: 10px blue dotted;
-}
-.double{
-    border: 10px blue double;
-}
-.groove{
-    border: 10px blue groove;
-}
-.ridge{
-    border: 10px blue ridge;
-}
-.inset{
-    border: 10px blue inset;
-}
-.outset{
-    border: 10px blue outset;
-}
-.solid{
-    border: 10px blue solid;
+
+.inline{
+    padding: 10px;
+    margin: 10px;
+    border :1px solid #000;
+    display: inline-block;
 }
